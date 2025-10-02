@@ -25,7 +25,7 @@ print(f"Using device: {device}")
 # and QUVA Deep Vision Lab https://github.com/QUVA-Lab/COMBO
 # Modifications made by Qian Xie, 2024 
 
-# Further modifactions made by the anonymous authors of this submission:
+# Further modifications made by the anonymous authors of this submission:
 # Standard Acquisition is Sufficient for Asynchronous Bayesian Optimization
 
 PESTCONTROL_N_CHOICE = 5
